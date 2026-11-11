@@ -1,0 +1,8 @@
+.git
+.venv
+.env
+*.pyc
+__pycache__
+tests
+test_mcp.py
+test_defender.py
